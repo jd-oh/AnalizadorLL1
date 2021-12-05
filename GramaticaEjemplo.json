@@ -1,0 +1,24 @@
+{
+    "conjuntoProduccion": [
+        {
+            "izquierda": "E",
+            "derecha": "TX"
+        },
+        {
+            "izquierda": "X",
+            "derecha": "+TX|ø"
+        },
+        {
+            "izquierda": "T",
+            "derecha": "FY"
+        },
+        {
+            "izquierda": "Y",
+            "derecha": "*FY|ø"
+        },
+        {
+            "izquierda": "F",
+            "derecha": "id|(E)"
+        }
+    ]
+}
